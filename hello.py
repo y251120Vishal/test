@@ -1,1 +1,2 @@
 print("hello world")
+print("今日は5月13日です")
